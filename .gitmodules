@@ -1,0 +1,3 @@
+[submodule "themes/tkl"]
+	path = themes/tkl
+	url = git@github.com:AlisonChenab/blog-theme.git
