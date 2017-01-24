@@ -3,6 +3,8 @@ title: XMLHttpRequest
 date: 2016-12-30 10:28:11
 tags:
 - http
+categories:
+- http
 ---
 ### Ajax & XMLHttpRequest
 

@@ -3,6 +3,8 @@ title: React Lifecycle
 date: 2016-12-29 15:25:08
 tags:
 - react
+categories:
+- react
 ---
 ## 生命周期
 

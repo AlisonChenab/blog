@@ -7,6 +7,9 @@ tags:
 - react
 - test
 - 陈小饼
+categories:
+- react
+- test
 ---
 
 针对react组件的单元测试，facebook提供了Test Utilities测试工具库，Airbnb基于此封装了使用更方便的Enzyme。另外普及一下React的测试框架Jest。

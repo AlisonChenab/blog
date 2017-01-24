@@ -7,6 +7,10 @@ tags:
 - NPM
 - 工具
 - 陈小饼
+categories:
+- yarn
+- npm
+- 工具
 ---
 
 ### 简介
