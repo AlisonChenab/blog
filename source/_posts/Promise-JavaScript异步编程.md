@@ -6,6 +6,9 @@ tags:
 - promise
 - 异步编程
 - 陈小饼
+categories:
+- promise
+- 异步编程
 ---
 
 Promise是异步编程的一种解决方案。
